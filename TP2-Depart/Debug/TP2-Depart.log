@@ -1,0 +1,48 @@
+﻿  Enemy.cpp
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\Enemy.cpp(81,7): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\Enemy.cpp(97,81): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+  Game.cpp
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\Player.h(78,25): warning C4244: 'initialisation' : conversion de 'float' en 'const int', perte possible de données
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\Player.h(84,24): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\GameScene.h(50,22): warning C4305: 'initialisation' : troncation de 'double' à 'const float'
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\GameScene.h(68,47): warning C4244: 'initialisation' : conversion de 'double' en 'const int', perte possible de données
+  GameContentManager.cpp
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\GameContentManager.cpp(1,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  GameScene.cpp
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\Player.h(78,25): warning C4244: 'initialisation' : conversion de 'float' en 'const int', perte possible de données
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\Player.h(84,24): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\GameScene.h(50,22): warning C4305: 'initialisation' : troncation de 'double' à 'const float'
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\GameScene.h(68,47): warning C4244: 'initialisation' : conversion de 'double' en 'const int', perte possible de données
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\GameScene.cpp(41,67): warning C4244: 'argument' : conversion de 'const T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\GameScene.cpp(41,42): warning C4244: 'argument' : conversion de 'const T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\GameScene.cpp(49,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\GameScene.cpp(139,51): warning C4244: 'argument' : conversion de 'const T' en 'const float', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\GameScene.cpp(299,67): warning C4244: 'argument' : conversion de 'const T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\GameScene.cpp(299,42): warning C4244: 'argument' : conversion de 'const T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\GameScene.cpp(304,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Hud.cpp
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\Hud.cpp(25,28): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\session4\game\tp2\TP2-Depart\TP2-Depart\Hud.cpp(14,7): warning C4996: 'sf::Text::setColor': a été déclaré déconseillé
+  Génération de code en cours...
+  TP2-Depart.vcxproj -> D:\session4\game\tp2\TP2-Depart\Debug\TP2-Depart.exe
+  0 fichier(s) copié(s)
